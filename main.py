@@ -1598,4 +1598,4 @@ with st.sidebar:
     # 지표
     # ---------------------------------------------
 
-    metric_label = st.selectbox(
+    metric_label = st.selectbox()
