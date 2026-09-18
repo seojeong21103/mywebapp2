@@ -1447,4 +1447,4 @@ selected_file = population_files[
 ]
 
 try:
-    with st.spinne
+    with st.spinne:
